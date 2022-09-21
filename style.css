@@ -73,3 +73,24 @@ input{
     border-radius: .8rem;
 
 }
+table,
+th,
+td {
+
+    margin: 0.5rem auto;
+    padding: 0.5rem;
+    border: 2px solid var(--second-color);
+    border-collapse: collapse;
+    max-width: 100%;
+    table-layout: fixed;
+    width:3rem;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+th {
+    font-size:.7rem;
+}
+.notes-to-return {
+    heght: 4rem;
+
+}
