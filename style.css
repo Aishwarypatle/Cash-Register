@@ -9,7 +9,7 @@
 
 nav{
     font-family:'Aref Ruqaa Ink', serif;
-    color: var(--second-color);
+    color: var(--first-color);
     background-color: var(--primary-color);
     text-align: center;
     font-size:1.5rem;
@@ -48,7 +48,7 @@ input{
     margin-top: 1rem;
     width: 6rem;
     height:2rem;
-    color: var(--second-color);
+    color: var(--first-color);
     font-weight: bolder;
     border-radius: .8rem;
     background-color: var(--primary-color);
